@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:creativeCommons="http://backend.userland.com/creativeCommonsRssModule" 
+version="2.0">
+<channel><title>Premier Design and Software Solutions</title>
+<description>This software has been developed for my Practical Conservation Biology module</description>
+<link>http://www.portfolio.freedjmixes.co.uk</link>
+<language>en-US</language>
+<copyright>Copyright 2011 Matthew Lee</copyright>
+<managingEditor>webmaster@freedjmixes.co.uk (Matthew Lee)</managingEditor>
+<webMaster>webmaster@freedjmixes.co.uk (Matthew Lee)</webMaster>
+<pubDate>Fri, 30 Sep 2011 13:26:36 GMT</pubDate>
+<lastBuildDate>Thu, 06 Oct 2011 03:39:29 -0700</lastBuildDate>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<creativeCommons:license>http://creativecommons.org/licenses/by-nd/3.0/</creativeCommons:license>
+<image>
+<url>http://portfolio.freedjmixes.co.uk/images/banner.jpg</url>
+<title>Premier Design</title>
+<link>http://www.portfolio.freedjmixes.co.uk</link>
+<description>Specialised data management and web design services</description>
+<width>445</width>
+<height>83</height>
+</image><item>
+<title>Troubleshooting</title><description>The Geolocation object may not have found your exact location. If this is the case just enter details of your location in the text area in the box titled &apos;Location&apos; and your details will be updated. To ensure that you can be located seperate each part of the address with a &apos;,&apos;. If however your location is correct proceed to step 2</description><link>http://www.portfolio.freedjmixes.co.uk</link>
+<author>webmaster@freedjmixes.co.uk (Matthew Lee)</author><pubDate>Sat, 01 Oct 2011 01:32:54 -0700</pubDate></item><item>
+<title>Design</title><description>Before any survey data can be inputted we need a to know your name and any affiliations. In the box titled 'Details' simply create a user name and if you are surveying as part of an organised event enter the name of the organisation you are representing. Submit your details and proceed to step 3.</description><link>http://www.portfolio.freedjmixes.co.uk</link>
+<author>webmaster@freedjmixes.co.uk (Matthew Lee)</author><pubDate>Tue, 04 Oct 2011 05:00:01 -0700</pubDate></item><item>
+<title>Scripts</title><description>After your name has appeared in the area adjacent to the Google Map you can start to input your survey data. Choose a name of a species you have been observing and enter the number of times this species has been spotted. After clicking &apos;Add&apos; details of your observations will appear below your user name. After you have inputted details of all the species you have observed just finalise your observations by clicking on 'Finish'. Your details and the survey have now been added to our feeds and are now available globally.</description><link>http://www.portfolio.freedjmixes.co.uk</link>
+<author>webmaster@freedjmixes.co.uk (Matthew Lee)</author><pubDate>Tue, 04 Oct 2011 05:03:57 -0700</pubDate></item><item>
+<title>Development</title><description>This website is a demonstration of how Geographic Information Systems (GIS) can be used to relate spacial information about species abundance in relation to the individual or volunteer that has been collecting the data. It has a potential role in increasing the value of a conservation organisations website through adding value to the work undertaken by volunteers and could be developed further to relate data specific to a group or single species. The software has been developed to support the Practical Conservation Biology module of an Environmental Science BSC(Hons) Degree. If you wish to try the software please follow steps 1 to 3.</description><link>http://www.portfolio.freedjmixes.co.uk</link>
+<author>webmaster@freedjmixes.co.uk (Matthew Lee)</author><pubDate>Tue, 04 Oct 2011 08:40:11 -0700</pubDate></item></channel></rss>
