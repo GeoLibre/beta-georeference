@@ -1,5 +1,4 @@
 <?php
-$url = "Demonstration";
 //Header section of the document
 //Contains all the meta data and links to JavaScript files and Cascading Style Sheets
 //When the page loads in a clients browser a function called geo_location(); is called.
