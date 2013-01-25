@@ -1,6 +1,6 @@
 <?php
 //Header section of the document
-//Contains all the meta data and links to JavaScript files and Cascading Style Sheets
+//Contains all the meta and links to JavaScript files and Cascading Style Sheets
 //When the page loads in a clients browser a function called geo_location(); is called.
 //The function loads the maps, survey data and determines your location
 echo "
